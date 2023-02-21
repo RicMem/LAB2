@@ -11,7 +11,7 @@ if ($conn->connect_error) {
 }
 
 // Create database
-$sql = "CREATE DATABASE rbmemarion_myguest";
+$sql = "CREATE DATABASE webprogss211";
 if ($conn->query($sql) === TRUE) {
   echo "Database created successfully";
 } else {
