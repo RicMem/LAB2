@@ -120,7 +120,7 @@
 		$servername = "192.168.150.213";
 	        $username = "webprogss211";
 	        $password = "fancyR!ce36";
-	        $dbname = "rbmemarion_myguest";
+	        $dbname = "webprogss211";
 	
 
 	
