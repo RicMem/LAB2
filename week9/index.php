@@ -1,3 +1,13 @@
+<!DOCTYPE HTML>  
+<html>
+<head>
+<style>
+.error {color: #FF0000;}
+</style>
+</head>
+<body>  
+
+
 <?php
 	// define variables and set to empty values
 	$nameErr = $emailErr = $genderErr = $websiteErr = "";
@@ -162,3 +172,5 @@
 	}
 	$conn->close();
 	?>
+/body>
+</html>
