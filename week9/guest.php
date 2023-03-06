@@ -11,6 +11,7 @@
    $password = "fancyR!ce36";
    $dbname = "webprogss211";
 
+
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
